@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @giocastilhos 
+- 👀 I’m interested in learning smart contracts
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on NFT Projects
